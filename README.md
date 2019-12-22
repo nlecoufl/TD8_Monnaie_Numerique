@@ -1,4 +1,5 @@
-# truffle-testing
+# Done by Nicolas MATUSIAK and Nicolas LECOUFLET
+# truffle-testing 
 
 A TD to learn how to use Truffle tests. This repo only has a test folder.
 
